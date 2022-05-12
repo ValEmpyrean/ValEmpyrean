@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Val
 - 👀 I’m interested in Payment Plugins development 
-- 🌱 I’m currently learning PHP,JS 
+- 🌱 I’m currently learning Payment Plugin Development 
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me: val@empyreanms.com
 
